@@ -1,3 +1,3 @@
 # Python-learning
-<p>Basic to advanced learning codes for python programming</p>
-I planned machine learning lessons using python for the future.
+<h1>Basic to advanced learning codes for python programming</h1>
+<p>I planned machine learning lessons using python for the future.</p>
